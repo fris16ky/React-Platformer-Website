@@ -1,0 +1,11 @@
+* {
+  align-items: center;
+  text-align: center;
+}
+
+.Platformer {
+  margin-top: 50px;
+  width: 1280px;
+  height: 720px;
+  border: 1pt solid black;
+}

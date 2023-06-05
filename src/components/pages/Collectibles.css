@@ -1,0 +1,28 @@
+.collect-container {
+  margin-top: 30px;
+  margin-bottom: 100px;
+  position: relative;
+  text-align: center;
+}
+
+.level-container {
+  display: flex;
+  align-items: center;
+}
+
+.level-container > img {
+  width: 50%;
+  border: 1pt solid black;
+  margin-right: 10px;
+  margin-left: 10px;
+}
+
+.level-container .image-text {
+  margin-right: 20px;
+}
+
+.tips {
+  align-content: center;
+  width: 90%;
+  margin: 0 auto;
+}

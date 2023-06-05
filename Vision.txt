@@ -1,0 +1,13 @@
+So this is just a little text file for my vision and what I want for this website: 
+
+Probably have the home page be an info page? Like a general background and introduction to the game and this website. 
+Maybe have a big red PLAY button at the top middle? Something like that. 
+Otherwise, pretty simple with a footer with my info; header/navbar with an AboutMe, AboutThisProject, etc. 
+One dedicated page for completionists (i.e. how many melons you can get in each level/overall)
+OOOO have a submission, where the players can track their own rough time for beating the game? I imagine that wouldn't be too hard, 
+but eventually I'd want the game itself to track that obviously. 
+
+In the intro/about page, have an overview of some of the sprites. i.e. similar to the Keyboard Warriors on my Portfolio.
+Have a few key sprites/animated gifs showing to give an introduction to the game. 
+Have a page (IN THE HOME PAGE) for how to play. Not only the controls, general idea (avoid falling, enemies/traps, reach the end of 
+the level, etc.), but also a big button that says like "Take me to the Game" or something to let em play
