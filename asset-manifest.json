@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.4bcf90ac.css",
-    "main.js": "/static/js/main.916d710c.js",
-    "static/media/Level3.PNG": "/static/media/Level3.78c971b310a1fa9beffa.PNG",
-    "static/media/Level2.PNG": "/static/media/Level2.0c73cf49996ab72dbab8.PNG",
-    "static/media/Level4.PNG": "/static/media/Level4.f57ca46edd5148ea5d41.PNG",
-    "static/media/Level5.PNG": "/static/media/Level5.27528cdbbb9c143601c8.PNG",
-    "static/media/Level6.PNG": "/static/media/Level6.24a1d7f1b5b6bc8256a6.PNG",
-    "static/media/Level7.PNG": "/static/media/Level7.e5be259380278cfe17fc.PNG",
-    "static/media/Level1.PNG": "/static/media/Level1.29074b4a714a42ef054c.PNG",
-    "static/media/Level8.PNG": "/static/media/Level8.85b26ab1b9b404ce05ba.PNG",
-    "index.html": "/index.html",
-    "main.4bcf90ac.css.map": "/static/css/main.4bcf90ac.css.map",
-    "main.916d710c.js.map": "/static/js/main.916d710c.js.map"
+    "main.css": "/React-Platformer-Website/static/css/main.4bcf90ac.css",
+    "main.js": "/React-Platformer-Website/static/js/main.73948fa8.js",
+    "static/media/Level3.PNG": "/React-Platformer-Website/static/media/Level3.78c971b310a1fa9beffa.PNG",
+    "static/media/Level2.PNG": "/React-Platformer-Website/static/media/Level2.0c73cf49996ab72dbab8.PNG",
+    "static/media/Level4.PNG": "/React-Platformer-Website/static/media/Level4.f57ca46edd5148ea5d41.PNG",
+    "static/media/Level5.PNG": "/React-Platformer-Website/static/media/Level5.27528cdbbb9c143601c8.PNG",
+    "static/media/Level6.PNG": "/React-Platformer-Website/static/media/Level6.24a1d7f1b5b6bc8256a6.PNG",
+    "static/media/Level7.PNG": "/React-Platformer-Website/static/media/Level7.e5be259380278cfe17fc.PNG",
+    "static/media/Level1.PNG": "/React-Platformer-Website/static/media/Level1.29074b4a714a42ef054c.PNG",
+    "static/media/Level8.PNG": "/React-Platformer-Website/static/media/Level8.85b26ab1b9b404ce05ba.PNG",
+    "index.html": "/React-Platformer-Website/index.html",
+    "main.4bcf90ac.css.map": "/React-Platformer-Website/static/css/main.4bcf90ac.css.map",
+    "main.73948fa8.js.map": "/React-Platformer-Website/static/js/main.73948fa8.js.map"
   },
   "entrypoints": [
     "static/css/main.4bcf90ac.css",
-    "static/js/main.916d710c.js"
+    "static/js/main.73948fa8.js"
   ]
 }
